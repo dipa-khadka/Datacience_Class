@@ -6,17 +6,31 @@ Day 1 :-
   2. Random number generation using numpy:
   3. Indexing & Slicing
   4. Difference between list and numpy
-  5. arange()
+  5. consume time (%%time)
+  6. arange()
+  7. linear spacing(linspace)
+
+Day 2:-
+   1. .sort().filp() &.concat()[concatenate()]
+   2. vector operation and broadcasting
+   3. statistics using Numpy
+   4. .any() & .all()
+   5. Two dimenional array
+      
+
+Day 3:-
+   1. Matrix multiplication or dot product
+   2. Determinant Transpose and inverse of Matrix
+   3. [np.linalg.det() , .round() , .np.linalg.inv()]
+   4. The axis argument in numpy : 2D axis=0 is column-wise and axis=1 mean row-wise
+   5. .reshape()
+   6. Row matrix & Column matrix()
+   7. converting 2D array to 1D
+   8. [.flatten(), .tolist()]
+   9. Morden day images are in 3D
 
 
-Day 2 :-
-  1.sort and concat
-  2. vector operation and broadcasting
-  3. statistics using numpy
-  4. any() & all()
-  5. Two dimensional array
-
-
+Pandas       
 Day 3:-
   1. Introduction to pandas
   2. Data type in pandas
