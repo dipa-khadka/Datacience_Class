@@ -1,7 +1,7 @@
 # Data Science Full Course
-
+* Numpy :
+  
 # Day 1 :-
-
 1. Numpy:
 2. Random number generation using numpy:
 3. Indexing & Slicing
@@ -10,7 +10,6 @@
 
 
 # Day 2 :-
-
 1.sort and concat
 2. vector operation and broadcasting
 3. statistics using numpy
@@ -19,7 +18,6 @@
 
 
 # Day 3:-
-
 1. Introduction to pandas
 2. Data type in pandas
 3. index in series
