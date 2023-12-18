@@ -119,4 +119,16 @@ Day 6:-
   5. Leptokurtic
 
 
-
+# Mathmatics :
+* Day 14:-
+  1. Introduction to Probability:
+  2. probability line
+  3. terminology event :(one or more set of possible outcome)
+  4. types of event
+  5. mutual exclusive (additional law of probability)
+  6. depended event (multiplocation law of probability)
+  7. independed event (conditional probability)
+     
+    
+     
+  
