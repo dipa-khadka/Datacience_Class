@@ -125,12 +125,30 @@ Day 6:-
 2. probability line
 3. terminology event :(one or more set of possible outcome)
 4. types of event
-5. mutual exclusive (additional law of probability)
-6. depended event (multiplocation law of probability)
-7. independed event (conditional probability)
-8. Byes theorem
-9. likelyhood, prior, posterior, marginalization
+   1. mutual exclusive (additional law of probability)
+   2. depended event (multiplocation law of probability)
+   3. independed event (conditional probability)
      
-    
-     
+
+* Day 15:-
+1. Byes theorem
+2.  likelyhood, prior, posterior, marginalization
+
+
+* Day 16:-
+1. combination
+2. permutation
+3. random variables
+4. types of random variables
+5. Discrete random variables
+6. continuous random variables
+7. probability distribution of random variables
+ 1. Descrete probability distribution
+ 2. Continuous probability distribution
+8. Types of Discrete probability distribution:
+   1. Bernouli distribution
+   2. Binomial distribution
+   3. poision distribution
+
+   
   
