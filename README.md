@@ -76,58 +76,60 @@ Day 6:-
 
 # Data Visualization :
 * Day 8 :-
-  1. Introduction to matplotlib , seaborn and plotly
-  2. Ploting line chart
-  3. Barplot
-  4. Barplot using seaborn and plotly
-  5. Pie chart
+ 1. Introduction to matplotlib , seaborn and plotly
+ 2. Ploting line chart
+ 3. Barplot
+ 4. Barplot using seaborn and plotly
+ 5. Pie chart
 
 
 * Day 9:-
-  1. Histogram plot
-  2. Kdeplot
-  3. Boxplot
+1. Histogram plot
+2. Kdeplot
+3. Boxplot
 
 
 * Day 10:-
-  1. Scatterplot
-  2. correlation value in heatmap using seaborn
-  3. [.headmap(.corr(), annot=True, hue='']
-  4. Multivariate Scatterplot
-  5. pairplot
-  6. subplots
-  7. [.legeng(), .show()]
+ 1. Scatterplot
+ 2. correlation value in heatmap using seaborn
+ 3. [.headmap(.corr(), annot=True, hue='']
+ 4. Multivariate Scatterplot
+ 5. pairplot
+ 6. subplots
+ 7. [.legeng(), .show()]
 
 
 * Day 11:-
-  1. all_in_one(revision)
+1. all_in_one(revision)
 
 
  * Day 12:-
-   1. measure or center or central tendency
-   2. differece between mean an median
-   3. Normal Distribution
-   4. hisplot with kdeplot
-   5. dispersion
+1. measure or center or central tendency
+2. differece between mean an median
+3. Normal Distribution
+4. hisplot with kdeplot
+5. dispersion
 
 
 * Day 13:-
-  1. Kurtosis
-  2. Types of Kurtosis
-  3. Mesokurtic
-  4. Platykurtic
-  5. Leptokurtic
+1. Kurtosis
+2. Types of Kurtosis
+3. Mesokurtic
+4. Platykurtic
+5. Leptokurtic
 
 
 # Mathmatics :
 * Day 14:-
-  1. Introduction to Probability:
-  2. probability line
-  3. terminology event :(one or more set of possible outcome)
-  4. types of event
-  5. mutual exclusive (additional law of probability)
-  6. depended event (multiplocation law of probability)
-  7. independed event (conditional probability)
+1. Introduction to Probability:
+2. probability line
+3. terminology event :(one or more set of possible outcome)
+4. types of event
+5. mutual exclusive (additional law of probability)
+6. depended event (multiplocation law of probability)
+7. independed event (conditional probability)
+8. Byes theorem
+9. likelyhood, prior, posterior, marginalization
      
     
      
