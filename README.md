@@ -149,6 +149,23 @@ Day 6:-
    1. Bernouli distribution
    2. Binomial distribution
    3. poision distribution
+      
 
+* Day 17:-
+1. poisson distributioon-limiting case of binomial distribution
+2. The Empirical Rule (68-95-99.7% rule)
+3. properties of normal distribution
+4. Central Limit theorem
+5. Introduction to sampling
+6. Types of Sampling
+   1. probability sampling methods
+      1. simple random sampling
+      2. systematic sampling
+      3. stratified random sampling
+
+   2. Non-probability sampling methods
+      1. sampling with replacement
+      2. jadgmental or purposive sampling
+  
    
   
