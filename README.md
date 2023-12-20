@@ -167,5 +167,13 @@ Day 6:-
       1. sampling with replacement
       2. jadgmental or purposive sampling
   
-   
+
+* Day 18:-
+1. Standarization (standardscaler)  [Feature scaling 
+2. Normalization  (minmaxscaler)     technique]
+3. Hypothesis testing
+4. types of hypothesis testing
+   1. Null Hypothesis
+   2. Alternate Hypothesis
+5. P Value
   
