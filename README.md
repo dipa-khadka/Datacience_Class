@@ -176,4 +176,11 @@ Day 6:-
    1. Null Hypothesis
    2. Alternate Hypothesis
 5. P Value
-  
+
+
+* Day 19:-
+1. P value test
+2. Z test
+3. T test
+4. chi-square test
+   
