@@ -183,4 +183,13 @@ Day 6:-
 2. Z test
 3. T test
 4. chi-square test
+
+
+* Day 20:-
+1. 1-Tailed test vs 2-Tailed test
+2. Dicision Errors
+3. Covariance a correlation
+4. what is rank ?
+
+
    
