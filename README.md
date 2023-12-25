@@ -192,4 +192,17 @@ Day 6:-
 4. what is rank ?
 
 
+
+# Machine learning (ML) :-
+* Day 21:-
+1. Introduction to ML
+2. Types of ML Algorihtms
+  1. supervised learning
+  2. unsupervised learning
+  3. semisupervised learning
+  4. Reinforcement learning
+3. Classification Algorithms:
+   1. 
+
+
    
