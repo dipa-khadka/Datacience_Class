@@ -204,5 +204,10 @@ Day 6:-
 3. Classification Algorithms:
    1. 
 
-
+* Day 22:-
+1. Linear Regression
+2. Evalution of Linear Regression
+3. Mean Absolute Error (MAE)
+4. Mean Squared Error (MSE)
+5. Root Mean Squared Error (RMSE)
    
