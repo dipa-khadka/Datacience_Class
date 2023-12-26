@@ -176,4 +176,33 @@ Day 6:-
    1. Null Hypothesis
    2. Alternate Hypothesis
 5. P Value
-  
+
+
+* Day 19:-
+1. P value test
+2. Z test
+3. T test
+4. chi-square test
+
+
+* Day 20:-
+1. 1-Tailed test vs 2-Tailed test
+2. Dicision Errors
+3. Covariance a correlation
+4. what is rank ?
+
+
+
+# Machine learning (ML) :-
+* Day 21:-
+1. Introduction to ML
+2. Types of ML Algorihtms
+  1. supervised learning
+  2. unsupervised learning
+  3. semisupervised learning
+  4. Reinforcement learning
+3. Classification Algorithms:
+   1. 
+
+
+   
