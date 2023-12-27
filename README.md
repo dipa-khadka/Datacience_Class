@@ -210,4 +210,7 @@ Day 6:-
 3. Mean Absolute Error (MAE)
 4. Mean Squared Error (MSE)
 5. Root Mean Squared Error (RMSE)
+
+* Day 23:-
+1. Salary Prediction using Linear Regression
    
