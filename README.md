@@ -213,4 +213,19 @@ Day 6:-
 
 * Day 23:-
 1. Salary Prediction using Linear Regression
+2. Missing data handling
+  1. Deletion
+  2. Imputaion (fill in missing value)
+  3. Mathematical Technique
+  4. Algorithms
+  5. EDA and Domain Knowledlge
+3. Identifying Depended and Independed variable
+4. Feaure Selection
+   
+
+* Day 24:-
+1. Test Test Split
+2. Prediction
+3. Evalution
+4. Visualization 
    
