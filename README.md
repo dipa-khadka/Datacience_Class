@@ -227,5 +227,16 @@ Day 6:-
 1. Test Test Split
 2. Prediction
 3. Evalution
-4. Visualization 
+4. Visualization
+
+* Day 25:-
+1. Serialization
+2. Multiple Linear Regression
+3. Encoding Categorical data to Numerical
+   1. one hot encoding
+   2. label encoding
+   3. ordinal encoding
+   4. count encoding
+   5. frequency encoding
+  
    
