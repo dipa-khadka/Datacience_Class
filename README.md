@@ -1,3 +1,4 @@
+
 # Data Science Full Course
 # Numpy :
   
@@ -238,5 +239,14 @@ Day 6:-
    3. ordinal encoding
    4. count encoding
    5. frequency encoding
+
+
+* Day 26:-
+1. Reguralization Technique in Regression
+   1. Ridge Regression (l1)
+   2. Lasso Regression (l2)
+   3. ElasticNet Regression (Lasso + Ridge)
+2. Overfitting , Underfitting and Best Fit Line
+3. Introduction to Gradient Descent
   
    
