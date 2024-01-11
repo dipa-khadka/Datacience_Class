@@ -248,5 +248,16 @@ Day 6:-
    3. ElasticNet Regression (Lasso + Ridge)
 2. Overfitting , Underfitting and Best Fit Line
 3. Introduction to Gradient Descent
+
+
+* Day 27:-
+1. Types of Classification
+   1. Binary Classification
+   2. Multiclass classification
+2. Sigmoid Function
+3. Cost Function
+4. Evalution of Classification Algorithm
+5. Evalution metics
+
   
    
