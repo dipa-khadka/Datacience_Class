@@ -259,5 +259,11 @@ Day 6:-
 4. Evalution of Classification Algorithm
 5. Evalution metics
 
+
+* Day 28:-
+1. Titanic Dataset
+2. data profilling and many more to ml codes
+3. Confusion Matrix
+
   
    
