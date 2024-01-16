@@ -265,5 +265,20 @@ Day 6:-
 2. data profilling and many more to ml codes
 3. Confusion Matrix
 
+
+* Day 29:-
+1. Support Vector Machine(SVM)
+   1. Support vector Classification (SVC)
+   2. Train test data
+   3. model set
+   4. Evaluation
+   5. classification_report,ConfusionMatrixDisplay, DeciisionBoundryDisplay
+   6. Decision Boundry
+
+
+* Day 30:-
+1. K-Means Clusters
+
+
   
    
