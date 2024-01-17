@@ -265,5 +265,34 @@ Day 6:-
 2. data profilling and many more to ml codes
 3. Confusion Matrix
 
+
+* Day 29:-
+1. Support Vector Machine(SVM)
+   1. Support vector Classification (SVC)
+   2. Train test data
+   3. model set
+   4. Evaluation
+   5. classification_report,ConfusionMatrixDisplay, DeciisionBoundryDisplay
+   6. Decision Boundry
+
+
+* Day 30:-
+1. K-Means Clusters
+
+
+# NLP Algorithm :-
+* Day 31:-
+1. Tokenization
+2. UnZipping Tokenization by downloading punkt
+3. Stopwords
+4. list compression
+5. Removing HTML from the text through BeautifulSoup
+6. Steaming and it's uses
+7. Lemmatizatioin ant it's uses
+8. Converting Text to Vector
+   1. Bag of words / CountVectorizer(
+   2. Tfidf
+
+
   
    
