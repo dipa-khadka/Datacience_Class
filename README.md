@@ -292,8 +292,8 @@ Day 6:-
 8. Converting Text to Vector
    1. Bag of words / CountVectorizer(
    2. Tfidf
-  
 
+  
 * Day 32:-
 1. Pipeline
 2. Naive Byes
