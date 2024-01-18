@@ -292,6 +292,13 @@ Day 6:-
 8. Converting Text to Vector
    1. Bag of words / CountVectorizer(
    2. Tfidf
+  
+
+* Day 32:-
+1. Pipeline
+2. Naive Byes
+3. Creating API using pipeline
+4. Finding out Email being Spam or Not
 
 
   
