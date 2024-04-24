@@ -1,4 +1,3 @@
-
 # Data Science Full Course
 # Numpy :
   
